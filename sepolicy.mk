@@ -26,6 +26,3 @@ BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
     device/qcom/sepolicy-legacy/private
-
--include device/lineage/sepolicy/qcom/sepolicy.mk
-
